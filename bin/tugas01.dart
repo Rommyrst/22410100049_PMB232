@@ -1,3 +1,14 @@
+/*
+tugas buat file tugas01.dart
+konversi nilai 100-0 menjadi ABC
+menggunakan dart
+
+contoh:
+input n=80 --> A
+      n=67 --> C
+ */
+
+
 void main(){
   var nilai = 80;
 

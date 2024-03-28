@@ -1,3 +1,12 @@
+/*
+tugas03.dart
+tampilkan matrix '*' nxm
+input n =2, n = 3
+**
+**
+**
+ */
+
 import'dart:io';
 
 void main(){
